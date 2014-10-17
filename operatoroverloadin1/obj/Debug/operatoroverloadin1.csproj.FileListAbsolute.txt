@@ -1,0 +1,6 @@
+c:\users\tariqual\documents\visual studio 2012\Projects\operatoroverloadin1\operatoroverloadin1\bin\Debug\operatoroverloadin1.exe.config
+c:\users\tariqual\documents\visual studio 2012\Projects\operatoroverloadin1\operatoroverloadin1\bin\Debug\operatoroverloadin1.exe
+c:\users\tariqual\documents\visual studio 2012\Projects\operatoroverloadin1\operatoroverloadin1\bin\Debug\operatoroverloadin1.pdb
+c:\users\tariqual\documents\visual studio 2012\Projects\operatoroverloadin1\operatoroverloadin1\obj\Debug\operatoroverloadin1.csprojResolveAssemblyReference.cache
+c:\users\tariqual\documents\visual studio 2012\Projects\operatoroverloadin1\operatoroverloadin1\obj\Debug\operatoroverloadin1.exe
+c:\users\tariqual\documents\visual studio 2012\Projects\operatoroverloadin1\operatoroverloadin1\obj\Debug\operatoroverloadin1.pdb
